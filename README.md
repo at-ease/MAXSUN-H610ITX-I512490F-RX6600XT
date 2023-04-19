@@ -10,4 +10,4 @@ Graphics : Red devil AMD Radeon™ RX 6600 XT 8GB GDDR6
 
 Wifi&Bluetooth : BCM943602CS
 
-OpenCore:0.9.0
+OpenCore : 0.9.0
