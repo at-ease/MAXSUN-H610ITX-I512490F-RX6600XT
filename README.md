@@ -1,6 +1,6 @@
 # MAXSUN-H610ITX-I512490F-RX6600XT
 
-![imge](https://github.com/at-ease/MAXSUN-H610ITX-I512490F-RX6600XT/blob/main/Pic.png)
+![img](https://github.com/at-ease/MAXSUN-H610ITX-I512490F-RX6600XT/blob/main/img.png)
 
 ## Software and hardware information
 
