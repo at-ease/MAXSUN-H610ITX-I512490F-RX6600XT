@@ -2,8 +2,10 @@
 
 OpenCore:0.9.0
 
+CPU:i5 12490f
+
 Motherboard:MAXSUN-H610ITX(Bios:E1.3G)
 
 Graphics:RX6600XT
 
-Wifi&Bluetooth:943602CS
+Wifi&Bluetooth:BCM943602CS
