@@ -1,6 +1,9 @@
 ## MAXSUN-H610ITX-I512490F-RX6600XT
 
 OpenCore:0.9.0
+
 Motherboard:MAXSUN-H610ITX(Bios:E1.3G)
+
 Graphics:RX6600XT
+
 Wifi&Bluetooth:943602CS
