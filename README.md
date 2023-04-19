@@ -1,5 +1,6 @@
 # MAXSUN-H610ITX-I512490F-RX6600XT
 
+## Software and hardware information
 
 CPU : i5 12490F
 
