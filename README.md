@@ -18,7 +18,7 @@ The following settings are based on BIOS version 1.6G (listed in the order they 
  Items | Details
 --- | ---
  Hyper-Threading | Enable
- VT-d Enable Above 4G decoding | Disable
+ VT-d Enable Above 4G decoding | Enable
  Resizable Bar | Enable
  Device Security Support | Disable
  Serial/COM Port | Disable
