@@ -5,7 +5,7 @@
 ## Software and hardware information
 
 Items | Details
----- | ---
+:--: | ---
 CPU | i5 12490F
 Motherboard |  MAXSUN H610ITX ([BIOS](https://download.maxsun.com.cn:8443/mb/bios/MS-TZZH610ITX2.5G/MSTZZH610ITX25G13.RAR):E1.3G-1.6G)
 Graphics | Red devil AMD Radeon™ RX 6600 XT 8GB GDDR6
