@@ -26,3 +26,7 @@ The following settings are based on BIOS version 1.6G (listed in the order they 
  CSM Support | Disable
  Fast Boot | Disable
  Secure Boot | Disable
+ Wake on LAN | Disable
+ Trusted platform Module | Disable
+ Wake on USB | Disable
+ Wake on Bluetooth | Enable
